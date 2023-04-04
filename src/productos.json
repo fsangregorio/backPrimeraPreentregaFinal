@@ -1,0 +1,15 @@
+[
+    {"title": "Pelota", "description": "Pelota de fútbol", "price": 5000, "thumbnail": "./img0.jpg", "code": 1, "stock": 200},
+    {"title": "Pelota", "description": "Pelota de fútbol", "price": 5000, "thumbnail": "./img1.jpg", "code": 2, "stock": 200},
+    {"title": "Raqueta", "description": "Raqueta de Tenis", "price": 400, "thumbnail": "./img2.jpg", "code": 3, "stock": 200},
+    {"title": "Patines", "description": "Patines", "price": 700, "thumbnail": "./img3.jpg", "code": 4, "stock": 200},
+    {"title": "Patineta", "description": "Patineta azul", "price": 600, "thumbnail": "./img4.jpg", "code": 5, "stock": 200},
+    {"title": "Guantes", "description": "Guantes verdes", "price": 5500, "thumbnail": "./img5.jpg", "code": 6, "stock": 200},
+    {"title": "Remera", "description": "Remera blanca", "price": 5000, "thumbnail": "./img6.jpg", "code": 7, "stock": 200},
+    {"title": "Pantalon", "description": "Pantalón corto", "price": 1000, "thumbnail": "./img7.jpg", "code": 8, "stock": 200},
+    {"title": "Medias", "description": "Medias blancas", "price": 4000, "thumbnail": "./img8.jpg", "code": 9, "stock": 200},
+    {"title": "Botines", "description": "Botines amarillos", "price": 2500, "thumbnail": "./img8.jpg", "code": 10, "stock": 200},
+    {"title": "Paleta", "description": "Paleta chica", "price": 3000, "thumbnail": "./img10.jpg", "code": 11, "stock": 200},
+    {"title": "Buzo", "description": "Buzo Nike", "price": 500, "thumbnail": "./img11.jpg", "code": 12, "stock": 200}
+    ]
+    
